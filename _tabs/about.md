@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+
 Hello, I am Braedan. I am currently a Cybersecurity student at Bristol Community College through the TRAIN Program. After completing this program, I plan to pursue further education to advance my expertise in the field.
 ### Experience & Skills
 
