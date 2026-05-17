@@ -9,11 +9,11 @@ Hello, I am Braedan. I am currently a Cybersecurity student at Bristol Community
 
 **Practical Labs:** Completed hands-on training via Jones & Bartlett and TryHackMe, developing skills in network defense, vulnerability scanning, and ethical hacking methodologies.
 
-**Community Leadership:** Successfully manage and moderate cybersecurity/tech education communities, enhancing communication skills and fostering a collaborative learning environment. Currently The the community and Team and team manager of a 684 member community.
+**Community Leadership:** Successfully manage and moderate cybersecurity/tech education communities, enhancing communication skills and fostering a collaborative learning environment. Currently The community and team manager of a 684 member Educational community.
 
 **Project Management:** Applied organizational strategies to coordinate technical projects and manage timelines for academic and community initiatives.
 
-**Technical Toolkit:** Familiar with Linux, Windows, Nmap, Wireshark, and AI prompt manipulation/engineering through academic labs and self-study.
+**Technical Toolkit:** Familiar with Linux, Windows, Nmap, Wireshark, Osint, Cryptography and AI prompt manipulation/engineering through academic labs and self-study.
 
 **Certifications:** Currently preparing for **CompTIA Security+**
 
