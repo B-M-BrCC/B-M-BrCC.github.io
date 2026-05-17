@@ -18,3 +18,6 @@ Hello, I am Braedan. I am currently a Cybersecurity student at Bristol Community
 **Certifications:** Currently preparing for **CompTIA Security+**
 
 **Objective:** Seeking internship opportunities to apply classroom knowledge in real-world security operations environments.
+
+### Contact Info
+**Email:** WIP.
