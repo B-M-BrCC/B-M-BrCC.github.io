@@ -5,4 +5,4 @@ categories: [Diplomas,Education]
 tags: [diplomas]     # TAG names should always be lowercase
 ---
 **(WIP)**
-![Desktop View](/assets/images/IMG_20260517_120204.jpg){: width="972" height="589" }
+![Desktop View](/assets/images/IMG_20260517_120204.jpg){: width="801" height="569" }
