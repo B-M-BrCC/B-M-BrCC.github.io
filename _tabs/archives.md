@@ -1,5 +1,6 @@
 ---
-layout: archives
+layout: Diploma
 icon: fas fa-archive
-order: 3
+order: 1
 ---
+test
