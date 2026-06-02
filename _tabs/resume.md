@@ -1,6 +1,6 @@
 ---
 layout: Resume
 icon: fas fa-stream
-order: 0
+order: 2
 ---
 Test
