@@ -1,23 +1,48 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 1
+order: 4
+
 ---
-
-Hello, I am Braedan. I am currently a Cybersecurity student at Bristol Community College through the TRAIN Program. After completing this program, I plan to pursue further education to advance my expertise in the field.
-### Experience & Skills
-
-**Practical Labs:** Completed hands-on training via Jones & Bartlett and TryHackMe, developing skills in network defense, vulnerability scanning, and ethical hacking methodologies.
-
-**Community Leadership:** Successfully manage and moderate cybersecurity/tech education communities, enhancing communication skills and fostering a collaborative learning environment. Currently The community and team manager of a 684 member Educational community.
-
-**Project Management:** Applied organizational strategies to coordinate technical projects and manage timelines for academic and community initiatives.
-
-**Technical Toolkit:** Familiar with Linux, Windows, Nmap, Wireshark, Osint, Cryptography and AI prompt manipulation/engineering through academic labs and self-study.
-
-**Certifications:** Currently preparing for **CompTIA Security+**
-
-**Objective:** Seeking internship opportunities to apply classroom knowledge in real-world security operations environments.
-
-### Contact Info
+# <u>Braedan Monska</u>
+**Phone:** (401-376-4502) - <font color="#c0504d"><u>This Number can only receive texts.</u> </font>
 **Email:** BraedanTM@proton.me
+___
+Cybersecurity graduate with an eagerness to learn and lead. Applies classroom and real-world experience alongside strong written and verbal communication skills necessary for fast and efficient collaboration. Driven to find rapid and efficient solutions for resolving and automating complex tasks to improve workflow.
+___
+# Education
+[[https://bristolcc.edu/|Bristol Community College]] | Fall River, MA  |  **Graduation:** June 2026
+ - **Cybersecurity** TRAIN Certificate Program
+
+[[https://www.pennfoster.edu/|PennFoster Highschool]] | Scrantom Pennsylvania |  **Graduation:** June 2024
+ - **General Education**
+# Skills & Abilities
+**<u>Technical Toolkit</u>** | Bristol Community College & Self Education
+- Understanding of network protocols and security: TCP/IP, VPN, LAN/WAN, DNS, MFA
+- Understanding of data communications and networking concepts based on the OSI model.
+- Experience with creating secure network topologies and data transfer with [[https://gns3.com/|GNS3]], [[https://www.pfsense.org/|Pfsense]], and [[https://openvpn.net/|OpenVPN]].
+- Experience with [[https://nmap.org/|Nmap]], [[https://www.wireshark.org/|Wireshark]], [[https://en.wikipedia.org/wiki/Open-source_intelligence|OSINT]], [[https://en.wikipedia.org/wiki/Cryptography|Cryptography]], [[https://mariadb.org/|MariaDB/SQL]], & [[https://en.wikipedia.org/wiki/Prompt_engineering|AI Prompt Manipulation/engineering]].
+- Experience with securing and configuring Windows-based operating systems.
+- Experience with securing and configuring Linux-based operating systems.
+- Experience in LibreOffice, Obsidian, & GitHub.
+
+**<u>Management/Communication & Threat Mitigation</u>** 
+- Experience in  [[https://en.wikipedia.org/wiki/Social_engineering_(security)|social engineering]] such as [[https://en.wikipedia.org/wiki/Phishing#Spear_phishing|Spear phishing]], [[https://en.wikipedia.org/wiki/Phishing#Voice_phishing_(Vishing)|**Vishing**]], **Email Phishing**, [[https://en.wikipedia.org/wiki/Phishing#Page_hijacking|Page hijacking]], and other common [[https://en.wikipedia.org/wiki/Phishing|phishing attacks]].
+- Experience in [[https://en.wikipedia.org/wiki/Ransomware|Ransomware]], [[https://en.wikipedia.org/wiki/Malware|Malware]], and other [[https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf|Cybersecurity Mitigation Strategies]].
+- Experience in communicating technical terminology in understandable and non-technical terms.
+- Experience working with, managing, running, coordinating, and delegating teams/groups.
+  
+**<u>Cybersecurity internship project</u>** | Bristol Community College
+- Participated in a team-based virtual simulation of cybersecurity consulting for a real-world small healthcare organization.
+- Produced risk assessment reports and cybersecurity improvement recommendations 
+- Conducted cyber hygiene and security baseline assessments, including device inventory, password policy review, and multi-factor authentication (MFA) recommendations
+___
+### Current Projects/Undertakings
+**<u>Tech & Educational Cybersecurity Community</u>**
+- Running & managing a 700+ Person Group on a platform called [[https://fluxer.app/|Fluxer]]
+- Created readable and educational technical guides for 700+ community members.
+- Designed the foundational architecture for complex bots that automate moderation, server security, member privacy, and staff/community tools.
+- Developed simple yet robust systems to mitigate threat actors through advanced bot logging, automated threat detection, anti-spam measures, and immediate bot isolation.
+- Creating efficient bot logic and anti-staff abuse mechanisms to ensure secure and fair operational environments.
+- Engineered fully customizable settings for bot functionality, enabling flexible adaptation to specific security needs.
+
