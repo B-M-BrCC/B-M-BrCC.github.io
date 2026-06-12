@@ -5,7 +5,7 @@ order: 4
 
 ---
 ### Useful Links
-[My Resume](https://b-m-brcc.github.io/posts/Resume/)
+[My Resume](https://b-m-brcc.github.io/posts/Resume/)<br>
 [My Diplomas](https://b-m-brcc.github.io/posts/Diplomas/)
 ### About me
 I am a Cybersecurity graduate from Bristol Community College with a focus on operational security, threat mitigation, and secure system implementation. My background combines formal education through the Cybersecurity TRAIN Certificate Program with hands-on experience managing a 700+ member tech and educational cybersecurity community on the Fluxer platform.
