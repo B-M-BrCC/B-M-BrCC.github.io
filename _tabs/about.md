@@ -4,60 +4,16 @@ icon: fas fa-info-circle
 order: 4
 
 ---
-# <u>Braedan Monska</u>
- **Phone:** (401-376-4502) - <font color="#c0504d"><u>This Number can only receive texts.</u> </font> <br>
- **Email:** BraedanTM@proton.me<br>
+### Useful Links
+[My Resume](https://b-m-brcc.github.io/posts/Resume/)
+[My Diplomas](https://b-m-brcc.github.io/posts/Diplomas/)
+### About me
+I am a Cybersecurity graduate from Bristol Community College with a focus on operational security, threat mitigation, and secure system implementation. My background combines formal education through the Cybersecurity TRAIN Certificate Program with hands-on experience managing a 700+ member tech and educational cybersecurity community on the Fluxer platform.
 
- Cybersecurity graduate with an eagerness to learn and lead. Applies classroom and real-world experience alongside strong written and verbal communication skills necessary for fast and efficient collaboration. Driven to find rapid and efficient solutions for resolving and automating complex tasks to improve workflow.
-# Education
- [Bristol Community College](https://bristolcc.edu/) | Fall River, MA  |  **Graduation:** June 2026<br>
-  - **Cybersecurity** TRAIN Certificate Program
+My technical foundation includes work with network protocols (TCP/IP, VPN, LAN/WAN, DNS), security analysis tools like Nmap and Wireshark, and creating secure network topologies using GNS3, PfSense, and OpenVPN. I also have experience securing Windows, Linux, and Android operating systems along with database management using MariaDB/SQL.
 
- [PennFoster Highschool](https://www.pennfoster.edu/) | Scrantom Pennsylvania |  **Graduation:** June 2024<br>
-  - **General Education**
+Beyond technical skills, I specialize in communicating complex cybersecurity concepts in accessible ways and coordinating team efforts effectively. My internship work involved conducting risk assessments, device inventory audits, and multi-factor authentication recommendations for healthcare organizations.
 
-# Skills & Abilities
+I maintain rigorous personal cybersecurity practices including encrypted communications, email segmentation, password management, and full-disk encryption across all devices. These habits reflect my ongoing commitment to OPSEC principles and threat actor mitigation in both professional and personal contexts.
 
-#### **Technical Toolkit** | Bristol Community College & Self Education
-  1. Understanding of network protocols and security: TCP/IP, VPN, LAN/WAN, DNS, MFA
-  2. Understanding of data communications and networking concepts based on the OSI model
-  3. Experience with creating secure network topologies and data transfer with [GNS3](https://gns3.com/), [Pfsense](https://www.pfsense.org/), and [OpenVPN](https://openvpn.net/)
-  4. Experience with [Nmap](https://nmap.org/), [Wireshark](https://www.wireshark.org/), [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence), [Cryptography](https://en.wikipedia.org/wiki/Cryptography), [MariaDB/SQL](https://mariadb.org/), & [AI Prompt Manipulation/engineering](https://en.wikipedia.org/wiki/Prompt_engineering)
-  1. Experience with securing & configuring Windows-based operating systems
-  2. Experience with securing & configuring Linux-based operating systems
-  3. Experience with securing & configuring Android-based phones
-  4. Experience in [LibreOffice](https://www.libreoffice.org/), [Obsidian](https://obsidian.md/), & [GitHub](https://github.com/)
-
-#### **Management/Communication & Threat Mitigation** 
-  1. Deep understanding of Operational Security [OPSEC](https://en.wikipedia.org/wiki/Operations_security) 
-  2. Experience in  [social engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)) such as [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing), [Vishing](https://en.wikipedia.org/wiki/Phishing#Voice_phishing_(Vishing)), **Email Phishing**, [Page hijacking](https://en.wikipedia.org/wiki/Phishing#Page_hijacking), and other common [phishing attacks](https://en.wikipedia.org/wiki/Phishing)
-  3. Experience in [Ransomware](https://en.wikipedia.org/wiki/Ransomware), [Malware](https://en.wikipedia.org/wiki/Malware), and other [Cybersecurity Mitigation Strategies](https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf)
-  4. Experience in communicating technical terminology in understandable and non-technical terms
-  5. Experience working with, managing, running, coordinating, and delegating teams/groups
-
-#### **Cybersecurity internship project** | Bristol Community College
-  1. Participated in a team-based virtual simulation of cybersecurity consulting for a real-world small healthcare organization
-  2. Produced risk assessment reports and cybersecurity improvement recommendations 
-  3. Conducted cyber hygiene and security baseline assessments, including device inventory, password policy review, and [multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (MFA) recommendations
-
-# Current Projects/Undertakings
-
-#### **Tech & Educational Cybersecurity Community**
-  1. Running & managing a 700+ Person Group on a platform called [Fluxer](https://fluxer.app/)
-  2. Created readable and educational technical guides for 700+ community members
-  3. Designed the foundational architecture for complex bots that automate moderation, server security, member privacy, and staff/community tools
-  4. Developed simple yet robust systems to mitigate threat actors through advanced bot logging, automated threat detection, anti-spam measures, and immediate bot isolation
-  5. Creating efficient bot logic and anti-staff abuse mechanisms to ensure secure and fair operational environments
-  6. Engineered fully customizable settings for bot functionality, enabling flexible adaptation to specific security needs
-
-#### **Personal Cyber security Practicies**
-  1. DNS, VPN, and MAC configuration and [MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication) to protect against threat actors
-  2. Minimum of 64 characters, maximum of 300+ characters for passwords due to [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing#Quantum_cryptography_and_cybersecurity).
-  3. Utilizes symbols (#%^@+), spaces, numbers, (a-z), and words
-  4. Uses encrypted email and communication apps such as [Briar](https://briarproject.org/) & [Proton](https://proton.me/)
-  5. Email segmentation: Maintains multiple emails for different purposes, ensuring they never communicate with each other
-  6. Email aliases: Main email addresses never interact with websites, businesses, or companies; only aliases do
-  7. Fully encrypted password manager
-  8. Hardened Firefox-based browsers: [LibrWofl](https://librewolf.net/) & [Zen](https://zen-browser.app/)
-  9. Intense windows [hardening](https://en.wikipedia.org/wiki/Hardening_(computing)) & heavy [De-Bloating](https://en.wikipedia.org/wiki/Software_bloat) + Full-Disk [Cryptography](https://en.wikipedia.org/wiki/Software_bloat) on every device
-  10. Rigorous Android [hardening](https://en.wikipedia.org/wiki/Hardening_(computing)), [De-Googling](https://en.wikipedia.org/wiki/DeGoogle), and debloating
+Currently continuing to develop my web development skills while expanding my cybersecurity expertise through practical application and community leadership.
